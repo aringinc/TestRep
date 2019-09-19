@@ -1,0 +1,3 @@
+function recordSound() {
+	alert('clicked')
+}
